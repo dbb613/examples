@@ -1,0 +1,6 @@
+# Godot 4 cache and exports
+.godot/
+/android/
+/build/
+*.app
+*.dmg
